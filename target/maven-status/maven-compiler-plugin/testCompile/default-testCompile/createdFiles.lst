@@ -1,0 +1,5 @@
+com\Student\tests\TestBase.class
+com\Student\requests\RequestFactory.class
+com\Student\requests\RestClient.class
+com\Student\tests\CrudTest.class
+com\Student\util\PropertyReader.class
